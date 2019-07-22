@@ -2,7 +2,9 @@
 
 坚持虽然困难，但是有明确的方向
 
-从现在开始，来撸一撸[LeetCode](https://leetcode-cn.com/problemset/all/)
+从现在开始，来撸一撸
+- [LeetCode](https://leetcode-cn.com/problemset/all/)  
+- [牛客网《剑指offer》在线编程](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
 使用java语言动手编程，加强对java基础的理解
 
@@ -13,13 +15,16 @@
 # 目录
 
 - [日：极客时间每日一课](#极客时间每日一课)
-- [日：LeetCode刷题](#LeetCode刷题)
+- [日：刷题一道](#刷题一道)
     - [打卡日历](#打卡日历)
-- [日：Java面试题](#Java面试题)
-    - [Java提纲](#Java提纲)
+        - [2019-07](#2019-07)
+- [日：Java学习](#Java学习)
+    - [提纲](#提纲)
 - [日：读书计划](#读书计划)
 - [周：每周一篇英文翻译](#每周一篇英文翻译)
 - [周：每周进度](#每周进度)
+    - [2019-07-14](#2019-07-14)
+    - [2019-07-21](#2019-07-21)
 
 每天下班以后，首先看 **每日一课**,然后进行**算法**练习，最后时间进行**读书计划**
 
@@ -29,7 +34,10 @@
 
 # 极客时间每日一课
 
-# LeetCode刷题
+
+
+
+# 刷题一道
 
 配合相关算法书的阅读，进行针对性的联系；解题要用 `Java` 和 `JavaScript` 两种语言实现
 
@@ -42,12 +50,12 @@
 |进度|周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|--|
 |[:point_right:](#2019-07-14)|14|[15](http://note.youdao.com/noteshare?id=f90c565223c5d5e3d31f8bceb0de5130&sub=FD37678AE985437CA4849D05DC076DEF) | [16](http://note.youdao.com/noteshare?id=cb8684c9804057f30f76d959e6aecbf8&sub=E80474F5D5D440728D117958F6D567F8) | [17](http://note.youdao.com/noteshare?id=76ec8b127450ea81e496e681b6412245&sub=E16B0F5E386247138FF701430F437A69) | [18](http://note.youdao.com/noteshare?id=9a8916b56e02c4aa663c968f2ef46044&sub=FD97A6FF9A4C4DF28B287D69DB75A5E5) | [19](http://note.youdao.com/noteshare?id=67aae30edf0dbfb231204edc0131b3e8&sub=24CF40CDF2674F98807A7B00B1A9AE40) | [20](http://note.youdao.com/noteshare?id=ea6aa7e526d07c85063aae4f9445d52f&sub=E8FB6DF9953A4534BBEB0E151174691F) |
-|[:point_right:](#2019-07-21)| [21](http://note.youdao.com/noteshare?id=140a5c580d6bb6826f0f50bd8e701560&sub=F04AA964C13348C2BEB6DA0752467CCB) |22|23|24|25|26|27|
+|[:point_right:](#2019-07-21)| [21](http://note.youdao.com/noteshare?id=140a5c580d6bb6826f0f50bd8e701560&sub=F04AA964C13348C2BEB6DA0752467CCB) |[22](http://note.youdao.com/noteshare?id=8f7a1732483878053ca08d7494300104&sub=A03D5AD6B9B048C89A1A97FBB3C990BE)|23|24|25|26|27|
 || 28 |29|30|31|  |  |　|
 
-# Java面试题
+# Java学习
 
-从基础开始，边做题，边完善提纲，并且完善 思维导图。
+从基础开始，边做相应题目，带着问题去学习，边完善提纲，并且完善 思维导图。
 每天通过做题，加深对理论知识的理解，指引学习的方向。
 配合相关的图书。首先完成Java语言基础的提纲：
 
@@ -55,7 +63,8 @@
 - [ ] 《Java核心技术卷一》
 - [ ] [《Java8实战》](/books/Java语言/Java8实战.pdf)
 
-## Java提纲
+## 提纲
+
 
 # 读书计划
 
@@ -70,6 +79,7 @@
 
 翻译一篇英文类的技术文章
 
+- [ ] 2019-07-28
 
 # 每周进度
 
@@ -99,6 +109,10 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 ### 计划
 
 本周`读书计划`要跟进，首先争取每天看一章《Spring实战》，并且动手写写Demo，这样才能加深理解
+
+本周应该完成《spring实战的》
+- [ ] 第16章 使用spring MVC 创建REST API
+
 
 
 ### 总结
