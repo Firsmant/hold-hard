@@ -50,7 +50,7 @@
 |进度|周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|--|
 |[:point_right:](#2019-07-14)|14|[15](http://note.youdao.com/noteshare?id=f90c565223c5d5e3d31f8bceb0de5130&sub=FD37678AE985437CA4849D05DC076DEF) | [16](http://note.youdao.com/noteshare?id=cb8684c9804057f30f76d959e6aecbf8&sub=E80474F5D5D440728D117958F6D567F8) | [17](http://note.youdao.com/noteshare?id=76ec8b127450ea81e496e681b6412245&sub=E16B0F5E386247138FF701430F437A69) | [18](http://note.youdao.com/noteshare?id=9a8916b56e02c4aa663c968f2ef46044&sub=FD97A6FF9A4C4DF28B287D69DB75A5E5) | [19](http://note.youdao.com/noteshare?id=67aae30edf0dbfb231204edc0131b3e8&sub=24CF40CDF2674F98807A7B00B1A9AE40) | [20](http://note.youdao.com/noteshare?id=ea6aa7e526d07c85063aae4f9445d52f&sub=E8FB6DF9953A4534BBEB0E151174691F) |
-|[:point_right:](#2019-07-21)| [21](http://note.youdao.com/noteshare?id=140a5c580d6bb6826f0f50bd8e701560&sub=F04AA964C13348C2BEB6DA0752467CCB) |[22](http://note.youdao.com/noteshare?id=8f7a1732483878053ca08d7494300104&sub=A03D5AD6B9B048C89A1A97FBB3C990BE)|[23](http://note.youdao.com/noteshare?id=53849d90d97381c1a59742233b4ea55a&sub=668718C9DAB7495E80D49E0F89EA554D)|[24](https://note.youdao.com/ynoteshare1/index.html?id=80807165827634bb2fdf71da441015be&type=note)|25|26|27|
+|[:point_right:](#2019-07-21)| [21](http://note.youdao.com/noteshare?id=140a5c580d6bb6826f0f50bd8e701560&sub=F04AA964C13348C2BEB6DA0752467CCB) |[22](http://note.youdao.com/noteshare?id=8f7a1732483878053ca08d7494300104&sub=A03D5AD6B9B048C89A1A97FBB3C990BE)|[23](http://note.youdao.com/noteshare?id=53849d90d97381c1a59742233b4ea55a&sub=668718C9DAB7495E80D49E0F89EA554D)|[24](https://note.youdao.com/ynoteshare1/index.html?id=80807165827634bb2fdf71da441015be&type=note)|[25](http://note.youdao.com/noteshare?id=a0f4f5290d08f69a1c966bd578e6f2bc&sub=6D23993407A04F008A3407832DDF6510)|26|27|
 || 28 |29|30|31|  |  |　|
 
 # Java学习
@@ -111,7 +111,7 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 本周`读书计划`要跟进，首先争取每天看一章《Spring实战》，并且动手写写Demo，这样才能加深理解
 
 本周应该完成《spring实战的》
-- [ ] 第16章 使用spring MVC 创建REST API
+- [X] 第16章 使用spring MVC 创建REST API
 
 
 
