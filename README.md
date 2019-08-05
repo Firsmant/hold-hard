@@ -18,6 +18,7 @@
 - [日：刷题一道](#刷题一道)
     - [打卡日历](#打卡日历)
         - [2019-07](#2019-07)
+        - [2019-08](#2019-08)
 - [日：Java学习](#Java学习)
     - [提纲](#提纲)
 - [日：读书计划](#读书计划)
@@ -52,7 +53,14 @@
 |--|--|--|--|--|--|--|--|
 |[:point_right:](#2019-07-14)|14|[15](http://note.youdao.com/noteshare?id=f90c565223c5d5e3d31f8bceb0de5130&sub=FD37678AE985437CA4849D05DC076DEF) | [16](http://note.youdao.com/noteshare?id=cb8684c9804057f30f76d959e6aecbf8&sub=E80474F5D5D440728D117958F6D567F8) | [17](http://note.youdao.com/noteshare?id=76ec8b127450ea81e496e681b6412245&sub=E16B0F5E386247138FF701430F437A69) | [18](http://note.youdao.com/noteshare?id=9a8916b56e02c4aa663c968f2ef46044&sub=FD97A6FF9A4C4DF28B287D69DB75A5E5) | [19](http://note.youdao.com/noteshare?id=67aae30edf0dbfb231204edc0131b3e8&sub=24CF40CDF2674F98807A7B00B1A9AE40) | [20](http://note.youdao.com/noteshare?id=ea6aa7e526d07c85063aae4f9445d52f&sub=E8FB6DF9953A4534BBEB0E151174691F) |
 |[:point_right:](#2019-07-21)| [21](http://note.youdao.com/noteshare?id=140a5c580d6bb6826f0f50bd8e701560&sub=F04AA964C13348C2BEB6DA0752467CCB) |[22](http://note.youdao.com/noteshare?id=8f7a1732483878053ca08d7494300104&sub=A03D5AD6B9B048C89A1A97FBB3C990BE)|[23](http://note.youdao.com/noteshare?id=53849d90d97381c1a59742233b4ea55a&sub=668718C9DAB7495E80D49E0F89EA554D)|[24](https://note.youdao.com/ynoteshare1/index.html?id=80807165827634bb2fdf71da441015be&type=note)|[25](http://note.youdao.com/noteshare?id=a0f4f5290d08f69a1c966bd578e6f2bc&sub=6D23993407A04F008A3407832DDF6510)|[26](http://note.youdao.com/noteshare?id=94eedeaa94e7db1d0c9e019522fccf86&sub=F0B35519C281416ABF8A77825BEF03BC)|[27](http://note.youdao.com/noteshare?id=b7b92e92a64c81921d773f4d09147846&sub=DF5CC146FE8B4F4DBC47AFC297A2FCB2)|
-|[:point_right:](#2019-07-28)| [28](http://note.youdao.com/noteshare?id=59807ba409195a89d8597e833070a5c5&sub=0F2A9D032D9E4B93885B583007EE5496) |[29](http://note.youdao.com/noteshare?id=4a6d6a125bd32c1499a59b6b86097e4f&sub=D60406641BA54CA087C167CDBCE3FD30)|30|31|  |  |　|
+|[:point_right:](#2019-07-28)| [28](http://note.youdao.com/noteshare?id=59807ba409195a89d8597e833070a5c5&sub=0F2A9D032D9E4B93885B583007EE5496) |[29](http://note.youdao.com/noteshare?id=4a6d6a125bd32c1499a59b6b86097e4f&sub=D60406641BA54CA087C167CDBCE3FD30) |[30](http://note.youdao.com/noteshare?id=ae70449d65718dda7c26365c219ba610&sub=F3FAEAFA3A424DA0AA996C55DFAF46A5)|[31](http://note.youdao.com/noteshare?id=f8f96c9c9e52722e05530ac2ff537854&sub=4B45C500CEEE4D9DBF29CDB3BD63F1E4)|  |  |　|
+
+### 2019-08
+ |进度|周日|周一|周二|周三|周四|周五|周六|
+|--|--|--|--|--|--|--|--|
+|  |  |  |  |  |[1](http://note.youdao.com/noteshare?id=c80f8a0bcd460557b42e53486a482515&sub=FAC25A9634EA4068BC2C09E2E9B95A29)|[2](http://note.youdao.com/noteshare?id=0ae791ba390a5ff5d40c1ca181b7d8fe&sub=C1D7F51FDF3A4D278E11C70575001D03)|[3](http://note.youdao.com/noteshare?id=a0483f109e785a92f5e419b56fc297a2&sub=42242D40166A4FFABA67430D399AFBB6)|
+|[:point_right:](#2019-08-04)|4|5|6|7|8|9|10|
+
 
 # Java学习
 
@@ -114,7 +122,7 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 本周应该完成《spring实战》
 - [X] 第16章 使用spring MVC 创建REST API
 - [X] 第8章 使用Spring Web Flow
-- [ ] 第9章 保护Web 应用
+- [X] 第9章 保护Web 应用
 
 ### 总结
 
@@ -124,5 +132,17 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 
 ### 计划
 
-- [ ] 继续《Spring 实战》阅读
-- [ ] 小程序开发探索
+- [X] 继续《Spring 实战》阅读
+- [X] 小程序开发探索
+
+### 总结
+
+这周六加班感觉疲惫，本周小程序开发出来两个页面，还是不错；读书和做题在周六日有所松懈
+
+## 2019-08-04
+
+### 计划
+
+又是新的一周开始，这周要好好加油，争取早睡早起，保持好状态！！！
+
+- [ ] 第十五章 使用远程服务
