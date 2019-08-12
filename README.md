@@ -82,7 +82,7 @@
 1. 读书要记录相应的思维导图
 2. 将每章的练习代码上传到GitHub上
 
-- [ ] [《Spring实战》](https://www.edrawsoft.cn/viewer/public/s/84190240076066)
+- [ ] 《Spring实战》
 - [ ] 《深入理解Java虚拟机》
 - [ ] 《Java并发编程之美》
 
@@ -151,12 +151,14 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 
 ### 总结
 
-完成小程序的上线
+- [X] 完成小程序的上线
 
 ![小程序](https://note.youdao.com/yws/api/personal/file/940728027D714121B090E65D06DC8940?method=download&shareKey=33a9056a59e64a8926f967e7d23695ce)
 
-## 2019-08-12
+## 2019-08-11
 
 ## 计划
+
+- [ ] 公司培训学习
 
 ## 总结
