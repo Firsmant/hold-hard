@@ -65,7 +65,8 @@
 |  |  |  |  |  |[1](http://note.youdao.com/noteshare?id=c80f8a0bcd460557b42e53486a482515&sub=FAC25A9634EA4068BC2C09E2E9B95A29)|[2](http://note.youdao.com/noteshare?id=0ae791ba390a5ff5d40c1ca181b7d8fe&sub=C1D7F51FDF3A4D278E11C70575001D03)|[3](http://note.youdao.com/noteshare?id=a0483f109e785a92f5e419b56fc297a2&sub=42242D40166A4FFABA67430D399AFBB6)|
 |[:point_right:](#2019-08-04)|[4](http://note.youdao.com/noteshare?id=89abd958f9cd1ac2998f0cd66e865bc0&sub=39CEC61F7E0448D887CCD5CC0ACBC0CB)|[5](http://note.youdao.com/noteshare?id=978b5a97d3c4b4b5f2994d73f17a0c35&sub=7F57F92862DE41DC9314320BF6839EE3)|[6](http://note.youdao.com/noteshare?id=d24a8f3787341943840e79a64219944a&sub=CC4FBACE76694D09B77537EB880C9440)|[7](http://note.youdao.com/noteshare?id=4f113c38d2040e8956b5893afd5cf643&sub=0EF3BC9D1B5C47F6A10579506D199F77)|[8](http://note.youdao.com/noteshare?id=adcf7ca1902b2da446762c09cdf5b89a&sub=9FE80D7A55C74876953383B907B15FF3)|[9](http://note.youdao.com/noteshare?id=d8df14223d449f515e06f30a33e15626&sub=B909537D16D5497CA466253F0105DAA7)|[10](http://note.youdao.com/noteshare?id=1e3baf2f4604bfc5d54b64804e148af7&sub=446708BEB4B243DE95CF6D87F15799B1)|
 |[:point_right:](#2019-08-11)|[11](http://note.youdao.com/noteshare?id=c5092eb8a4e47b52713348d0d40351c3&sub=A5D34F034F074147AB374B47F7FED2AF)|[12](http://note.youdao.com/noteshare?id=53bc386741ed2442b35c13969bb0f366&sub=173066943AC54D9AB9CD180D1788759E)|[13](http://note.youdao.com/noteshare?id=b9dc123184ca614b2def5a0220c2032d&sub=20904C82B3334BB491B45B0DC54DE62E)|[14](http://note.youdao.com/noteshare?id=9f54f95217b5f2f0d043ace90cbaa8a2&sub=0705DF1325F94775A3360FEF4F220F58)|15|16|17|
-|[:point_right:](#2019-08-18)|[18](http://note.youdao.com/noteshare?id=b37b7c28f64b8decc063e287524ce925&sub=E807BF06E3F54AE98D3311A972C9801E)|[19](http://note.youdao.com/noteshare?id=b118757b37a9ce89e9e86177dc603376&sub=59FDDAAA05EC4E5E8AC390EC960EDFAD)|[20](http://note.youdao.com/noteshare?id=0a13aad63d9c02dd56ced45cfd20051e&sub=58ACEF71E1AB4FC4B6965FEA00091505)|[21](http://note.youdao.com/noteshare?id=84d561ab1063c107fba6591fe0768cde&sub=E61C9F37EE3840A6883DF0C3630885EB)|[22](http://note.youdao.com/noteshare?id=ccb8864f4448389d0dabb58af5bfdc7c&sub=1289932122244003854290967ADEA3C3)
+|[:point_right:](#2019-08-18)|[18](http://note.youdao.com/noteshare?id=b37b7c28f64b8decc063e287524ce925&sub=E807BF06E3F54AE98D3311A972C9801E)|[19](http://note.youdao.com/noteshare?id=b118757b37a9ce89e9e86177dc603376&sub=59FDDAAA05EC4E5E8AC390EC960EDFAD)|[20](http://note.youdao.com/noteshare?id=0a13aad63d9c02dd56ced45cfd20051e&sub=58ACEF71E1AB4FC4B6965FEA00091505)|[21](http://note.youdao.com/noteshare?id=84d561ab1063c107fba6591fe0768cde&sub=E61C9F37EE3840A6883DF0C3630885EB)|[22](http://note.youdao.com/noteshare?id=ccb8864f4448389d0dabb58af5bfdc7c&sub=1289932122244003854290967ADEA3C3)|23|24|
+|[:point_right:](#2019-08-25)|[25](http://note.youdao.com/noteshare?id=09edb6c87ab631607f864a7862f0b029&sub=4B8BB8C9B4BD42138A9548032FABE802)
 
 
 # Java学习
@@ -162,21 +163,35 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 
 ## 2019-08-11
 
-## 计划
+### 计划
 
 - 公司培训学习
   - [ ] OSS
   - [ ] MaxCompute
 
-## 总结
+### 总结
 
 本周没有突出进展呢，时间利用有待加强，目标应该量化,并且是强制完成
 
 ## 2019-08-18
 
-## 计划
+### 计划
 
 为了减少惰性，把每一天当做是计划开始的第一天，忘记过去的坚持，想想今天心血来潮发起了计划并执行一次而已。
 
 - [ ] [JavaGuide-Java-基础篇](https://snailclimb.gitee.io/javaguide/#/?id=%e5%9f%ba%e7%a1%80)
+
+### 总结
+
+一到周末就会放松自己，刷了半部烧脑的电视剧[《十二传说》](https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%82%B3%E8%AA%AA)，这部剧应该是讲了十二个破案的故事，因为没有看完所以只能猜测结论。看似常见与有趣的传闻，其背后总有一段被埋藏的秘密。“凶手做这么多事，也是想模糊视线，但是我已经看清楚他的原点”，这是一句女主每次在勘破案情后的口头禅，与“接下来就是见证奇迹的时刻”有的一拼。
+
+一个个扑所迷离的案情，如果只看其表象，被故意放出的迷雾扰乱视野，就会在这个迷宫中迷路。当知道答案以后才发现一切都是这么简单又合理，如果存在疑点，那么一定是错误的思路。
+
+周日下午观看了 RNG 和 LNG 的比赛，比赛很精彩，不到最后时刻难以断言输赢。 RNG 加油！！！
+
+## 2019-08-25
+
+### 计划
+
+本周应该完成《剑指offer》的题目，补上之前落下的打卡！！
 
