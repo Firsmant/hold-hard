@@ -20,6 +20,7 @@
     - [打卡日历](#打卡日历)
         - [2019-07](#2019-07)
         - [2019-08](#2019-08)
+        - [2019-09](#2019-09)
 - [日：Java学习](#Java学习)
     - [提纲](#提纲)
 - [日：读书计划](#读书计划)
@@ -31,6 +32,8 @@
     - [2019-08-04](#2019-08-04)
     - [2019-08-11](#2019-08-11)
     - [2019-08-18](#2019-08-18)
+    - [2019-08-25](#2019-08-25)
+    - [2019-09-01](#2019-09-01)
 
 每天早上进行**算法**练习
 
@@ -67,6 +70,12 @@
 |[:point_right:](#2019-08-11)|[11](http://note.youdao.com/noteshare?id=c5092eb8a4e47b52713348d0d40351c3&sub=A5D34F034F074147AB374B47F7FED2AF)|[12](http://note.youdao.com/noteshare?id=53bc386741ed2442b35c13969bb0f366&sub=173066943AC54D9AB9CD180D1788759E)|[13](http://note.youdao.com/noteshare?id=b9dc123184ca614b2def5a0220c2032d&sub=20904C82B3334BB491B45B0DC54DE62E)|[14](http://note.youdao.com/noteshare?id=9f54f95217b5f2f0d043ace90cbaa8a2&sub=0705DF1325F94775A3360FEF4F220F58)|15|16|17|
 |[:point_right:](#2019-08-18)|[18](http://note.youdao.com/noteshare?id=b37b7c28f64b8decc063e287524ce925&sub=E807BF06E3F54AE98D3311A972C9801E)|[19](http://note.youdao.com/noteshare?id=b118757b37a9ce89e9e86177dc603376&sub=59FDDAAA05EC4E5E8AC390EC960EDFAD)|[20](http://note.youdao.com/noteshare?id=0a13aad63d9c02dd56ced45cfd20051e&sub=58ACEF71E1AB4FC4B6965FEA00091505)|[21](http://note.youdao.com/noteshare?id=84d561ab1063c107fba6591fe0768cde&sub=E61C9F37EE3840A6883DF0C3630885EB)|[22](http://note.youdao.com/noteshare?id=ccb8864f4448389d0dabb58af5bfdc7c&sub=1289932122244003854290967ADEA3C3)|23|24|
 |[:point_right:](#2019-08-25)|[25](http://note.youdao.com/noteshare?id=09edb6c87ab631607f864a7862f0b029&sub=4B8BB8C9B4BD42138A9548032FABE802)
+
+### 2019-09
+
+|进度|周日|周一|周二|周三|周四|周五|周六|
+|--|--|--|--|--|--|--|--|
+|[:point_right:]|1|2|3|[4](http://note.youdao.com/noteshare?id=974e3355170c15fdd9e7cecb38c0d0a4&sub=B891F7EB03B24EBDBC947E2732A0EE04)|5[35](http://note.youdao.com/noteshare?id=a18fdd9058b0d1f8d0193addc9dc90c7&sub=1EACB779EF3B479EA722069E5E2463C3)|6|7|
 
 
 # Java学习
@@ -194,4 +203,14 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 ### 计划
 
 本周应该完成《剑指offer》的题目，补上之前落下的打卡！！
+
+### 总结
+
+找房搬家，进度没有保证 o(╥﹏╥)o
+
+## 2019-09-01
+
+### 计划
+
+完成上周计划，适应新的生活节奏！！
 
