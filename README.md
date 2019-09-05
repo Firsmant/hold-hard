@@ -75,7 +75,7 @@
 
 |进度|周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|--|
-|[:point_right:]|1|2|3|[4](http://note.youdao.com/noteshare?id=974e3355170c15fdd9e7cecb38c0d0a4&sub=B891F7EB03B24EBDBC947E2732A0EE04)|5[35](http://note.youdao.com/noteshare?id=a18fdd9058b0d1f8d0193addc9dc90c7&sub=1EACB779EF3B479EA722069E5E2463C3)|6|7|
+|[:point_right:](#2019-09-01)|1|2|3|[4](http://note.youdao.com/noteshare?id=974e3355170c15fdd9e7cecb38c0d0a4&sub=B891F7EB03B24EBDBC947E2732A0EE04)|5[35](http://note.youdao.com/noteshare?id=a18fdd9058b0d1f8d0193addc9dc90c7&sub=1EACB779EF3B479EA722069E5E2463C3)|6|7|
 
 
 # Java学习
@@ -207,6 +207,12 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 ### 总结
 
 找房搬家，进度没有保证 o(╥﹏╥)o
+
+不过本周读完了一本书，了解了互联网软件架构的发展，从单机到集群，从整体到分布，业务需求推动了技术发展，技术发展促进业务增长。
+
+单独读一遍书，可以吸收的内容较少，第一遍的目标应该就是了解这本书在讲什么；第二遍再去总结，去记笔记，大纲；当遇到问题时去更有针对性地读相关内容。
+
+- [X]《大型网站技术架构 核心原理与案例分析》
 
 ## 2019-09-01
 
