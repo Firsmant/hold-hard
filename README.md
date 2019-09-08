@@ -43,9 +43,6 @@
 
 # 极客时间每日一课
 
-
-
-
 # 刷题一道
 
 配合相关算法书的阅读，进行针对性的联系；解题要用 `Java` 和 `JavaScript` 两种语言实现
@@ -63,20 +60,23 @@
 |[:point_right:](#2019-07-28)| [28](http://note.youdao.com/noteshare?id=59807ba409195a89d8597e833070a5c5&sub=0F2A9D032D9E4B93885B583007EE5496) |[29](http://note.youdao.com/noteshare?id=4a6d6a125bd32c1499a59b6b86097e4f&sub=D60406641BA54CA087C167CDBCE3FD30) |[30](http://note.youdao.com/noteshare?id=ae70449d65718dda7c26365c219ba610&sub=F3FAEAFA3A424DA0AA996C55DFAF46A5)|[31](http://note.youdao.com/noteshare?id=f8f96c9c9e52722e05530ac2ff537854&sub=4B45C500CEEE4D9DBF29CDB3BD63F1E4)|  |  |　|
 
 ### 2019-08
+
  |进度|周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|--|
 |  |  |  |  |  |[1](http://note.youdao.com/noteshare?id=c80f8a0bcd460557b42e53486a482515&sub=FAC25A9634EA4068BC2C09E2E9B95A29)|[2](http://note.youdao.com/noteshare?id=0ae791ba390a5ff5d40c1ca181b7d8fe&sub=C1D7F51FDF3A4D278E11C70575001D03)|[3](http://note.youdao.com/noteshare?id=a0483f109e785a92f5e419b56fc297a2&sub=42242D40166A4FFABA67430D399AFBB6)|
 |[:point_right:](#2019-08-04)|[4](http://note.youdao.com/noteshare?id=89abd958f9cd1ac2998f0cd66e865bc0&sub=39CEC61F7E0448D887CCD5CC0ACBC0CB)|[5](http://note.youdao.com/noteshare?id=978b5a97d3c4b4b5f2994d73f17a0c35&sub=7F57F92862DE41DC9314320BF6839EE3)|[6](http://note.youdao.com/noteshare?id=d24a8f3787341943840e79a64219944a&sub=CC4FBACE76694D09B77537EB880C9440)|[7](http://note.youdao.com/noteshare?id=4f113c38d2040e8956b5893afd5cf643&sub=0EF3BC9D1B5C47F6A10579506D199F77)|[8](http://note.youdao.com/noteshare?id=adcf7ca1902b2da446762c09cdf5b89a&sub=9FE80D7A55C74876953383B907B15FF3)|[9](http://note.youdao.com/noteshare?id=d8df14223d449f515e06f30a33e15626&sub=B909537D16D5497CA466253F0105DAA7)|[10](http://note.youdao.com/noteshare?id=1e3baf2f4604bfc5d54b64804e148af7&sub=446708BEB4B243DE95CF6D87F15799B1)|
 |[:point_right:](#2019-08-11)|[11](http://note.youdao.com/noteshare?id=c5092eb8a4e47b52713348d0d40351c3&sub=A5D34F034F074147AB374B47F7FED2AF)|[12](http://note.youdao.com/noteshare?id=53bc386741ed2442b35c13969bb0f366&sub=173066943AC54D9AB9CD180D1788759E)|[13](http://note.youdao.com/noteshare?id=b9dc123184ca614b2def5a0220c2032d&sub=20904C82B3334BB491B45B0DC54DE62E)|[14](http://note.youdao.com/noteshare?id=9f54f95217b5f2f0d043ace90cbaa8a2&sub=0705DF1325F94775A3360FEF4F220F58)|15|16|17|
 |[:point_right:](#2019-08-18)|[18](http://note.youdao.com/noteshare?id=b37b7c28f64b8decc063e287524ce925&sub=E807BF06E3F54AE98D3311A972C9801E)|[19](http://note.youdao.com/noteshare?id=b118757b37a9ce89e9e86177dc603376&sub=59FDDAAA05EC4E5E8AC390EC960EDFAD)|[20](http://note.youdao.com/noteshare?id=0a13aad63d9c02dd56ced45cfd20051e&sub=58ACEF71E1AB4FC4B6965FEA00091505)|[21](http://note.youdao.com/noteshare?id=84d561ab1063c107fba6591fe0768cde&sub=E61C9F37EE3840A6883DF0C3630885EB)|[22](http://note.youdao.com/noteshare?id=ccb8864f4448389d0dabb58af5bfdc7c&sub=1289932122244003854290967ADEA3C3)|23|24|
-|[:point_right:](#2019-08-25)|[25](http://note.youdao.com/noteshare?id=09edb6c87ab631607f864a7862f0b029&sub=4B8BB8C9B4BD42138A9548032FABE802)
+|[:point_right:](#2019-08-25)|[25](http://note.youdao.com/noteshare?id=09edb6c87ab631607f864a7862f0b029&sub=4B8BB8C9B4BD42138A9548032FABE802)|26|27|28|29|30|31|
 
 ### 2019-09
 
 |进度|周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|--|
-|[:point_right:](#2019-09-01)|1|2|3|[4](http://note.youdao.com/noteshare?id=974e3355170c15fdd9e7cecb38c0d0a4&sub=B891F7EB03B24EBDBC947E2732A0EE04)|5[35](http://note.youdao.com/noteshare?id=a18fdd9058b0d1f8d0193addc9dc90c7&sub=1EACB779EF3B479EA722069E5E2463C3)|6|7|
+|[:point_right:](#2019-09-01)|1|2|3|[4](http://note.youdao.com/noteshare?id=974e3355170c15fdd9e7cecb38c0d0a4&sub=B891F7EB03B24EBDBC947E2732A0EE04)|[5](http://note.youdao.com/noteshare?id=a18fdd9058b0d1f8d0193addc9dc90c7&sub=1EACB779EF3B479EA722069E5E2463C3)|[6](http://note.youdao.com/noteshare?id=93f3e1a6c35ffd6773fb4df3927add1f&sub=8F072B224A5E46ACAE278FB946904B0E)|[7](http://note.youdao.com/noteshare?id=cd5949547e023407db0b848311e36037&sub=8E5D1CFCD15C450B86FCFFA1AAB4CD33)|
+|[:point_right:](#2019-09-08)|[8](http://note.youdao.com/noteshare?id=a164f83bb2216092cd280ccc21519c1e&sub=124CA588D03C49B4951848EAD1249C79)|
 
+补充：
 
 # Java学习
 
@@ -89,7 +89,6 @@
 - [ ] 《Java8实战》
 
 ## 提纲
-
 
 # 读书计划
 
@@ -115,9 +114,9 @@
 
 ### 计划
 
-每天一道`LeetCode`算法题，简单题开始
+每天一道 `LeetCode` 算法题，简单题开始
 
-每天一道`Java`面试题
+每天一道 `Java` 面试题
 
 ### 总结
 
@@ -133,7 +132,7 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 
 ### 计划
 
-本周`读书计划`要跟进，首先争取每天看一章《Spring实战》，并且动手写写Demo，这样才能加深理解
+本周 `读书计划` 要跟进，首先争取每天看一章《Spring实战》，并且动手写写Demo，这样才能加深理解
 
 本周应该完成《spring实战》
 
@@ -212,11 +211,10 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 
 单独读一遍书，可以吸收的内容较少，第一遍的目标应该就是了解这本书在讲什么；第二遍再去总结，去记笔记，大纲；当遇到问题时去更有针对性地读相关内容。
 
-- [X]《大型网站技术架构 核心原理与案例分析》
+- [X]  《大型网站技术架构 核心原理与案例分析》
 
 ## 2019-09-01
 
 ### 计划
 
 完成上周计划，适应新的生活节奏！！
-
