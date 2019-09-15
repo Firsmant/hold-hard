@@ -35,6 +35,7 @@
     - [2019-08-25](#2019-08-25)
     - [2019-09-01](#2019-09-01)
     - [2019-09-08](#2019-09-08)
+    - [2019-09-15](#2019-09-15)
 
 每天早上进行**算法**练习
 
@@ -75,7 +76,8 @@
 |进度|周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|--|
 |[:point_right:](#2019-09-01)|1|2|3|[4](http://note.youdao.com/noteshare?id=974e3355170c15fdd9e7cecb38c0d0a4&sub=B891F7EB03B24EBDBC947E2732A0EE04)|[5](http://note.youdao.com/noteshare?id=a18fdd9058b0d1f8d0193addc9dc90c7&sub=1EACB779EF3B479EA722069E5E2463C3)|[6](http://note.youdao.com/noteshare?id=93f3e1a6c35ffd6773fb4df3927add1f&sub=8F072B224A5E46ACAE278FB946904B0E)|[7](http://note.youdao.com/noteshare?id=cd5949547e023407db0b848311e36037&sub=8E5D1CFCD15C450B86FCFFA1AAB4CD33)|
-|[:point_right:](#2019-09-08)|[8](http://note.youdao.com/noteshare?id=a164f83bb2216092cd280ccc21519c1e&sub=124CA588D03C49B4951848EAD1249C79)|[9](http://note.youdao.com/noteshare?id=cc66aae6f31c82838a1221a30ca21c26&sub=B7F2A3053E7E4EA3A5D9A4054334978F)
+|[:point_right:](#2019-09-08)|[8](http://note.youdao.com/noteshare?id=a164f83bb2216092cd280ccc21519c1e&sub=124CA588D03C49B4951848EAD1249C79)|[9](http://note.youdao.com/noteshare?id=cc66aae6f31c82838a1221a30ca21c26&sub=B7F2A3053E7E4EA3A5D9A4054334978F)|10|11|12|13|14|
+|[:point_right:](#2019-09-15)|[15](http://note.youdao.com/noteshare?id=e8e16324d1aa74be842f8e19c784793a&sub=6B23329A21B346E2BAAFFCEDE004EC31)|
 
 补充：
 
@@ -228,5 +230,14 @@ java面试题的进度比较差，因为一直在尝试如何积累面试题的�
 
 ### 计划
 
+学习极客时间上的《数据结构与算法之美》
+
 ### 总结
 
+翻看了下
+
+- [ ] 《Head First 设计模式（中文版）》
+- [ ] 《程序员修炼之道-从小工到专家》
+- 《人月神话》
+
+这个中秋节比较充实，爬了长城，完成了一件在北京要做到事情
